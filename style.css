@@ -1,0 +1,168 @@
+  header {
+  background: #ffffff url("img/gorod2.png") no-repeat top center;
+  color: black;
+  background-size: 100% 100%;
+}
+
+ /*body { 
+ background:#ffffff url(images/ldr2.png); 
+ 
+ }
+
+.page-title {
+	text-align: center;
+}
+.page-title2 {
+	text-align: center;
+	background-color: rgb(202, 224, 248);
+}
+.vstup {
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+}
+.about {
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+}
+.pt {
+	margin-bottom: 10px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+	
+}
+.vopros {
+	text-decoration: underline;
+	font-size: 18px;
+	font-weight: bold;
+	}
+.otvet{
+	 background-color: rgb(202, 224, 248);
+	 font-style: italic;
+	 }
+	 
+ .menu {
+    margin: 0; /* Обнуляем значение отступов */
+ /*   padding: 4px; /* Значение полей */
+   }
+   
+  /*.menu {
+    display: inline; /* Отображать как строчный элемент */
+   
+ /*body { 
+ background:#ffffff url(images/ldr2.png); 
+ 
+ }
+
+.page-title {
+	text-align: center;
+}
+.page-title2 {
+	text-align: center;
+	background-color: rgb(202, 224, 248);
+}
+.vstup {
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+}
+.about {
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+}
+.pt {
+	margin-bottom: 10px;
+	padding: 20px;
+	background-color: rgba(68, 112, 196, 0.9);
+	border: 5px solid #2d508f;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+	
+}
+.vopros {
+	text-decoration: underline;
+	font-size: 18px;
+	font-weight: bold;
+	}
+.otvet{
+	 background-color: rgb(202, 224, 248);
+	 font-style: italic;
+	 }
+	 
+ .menu {
+    margin: 0; /* Обнуляем значение отступов */
+ /*   padding: 4px; /* Значение полей */
+   
+
+  /*.menu {
+    display: inline; /* Отображать как строчный элемент */
+   /* margin-right: 5px; /* Отступ слева */
+   /* border: 1px solid #000; /* Рамка вокруг текста */
+   /* padding: 3px; /* Поля вокруг текста */
+  /* }
+ 
+
+  
+	   opacity: 0,6;
+	   background-color: rgb(202, 224, 248);
+	   padding: 5px;
+	   text-align: center;
+	   font-style: italic;*/
+   
+   
+ /* footer {
+		text-align: center;
+		font-weight: bold;
+	    margin-top: 30px;
+		padding-top: 10px;
+		background-color: rgba(68, 112, 196, 0.9);
+		color: #aaaaaa;
+		border: 5px solid #2d508f;
+		border-radius: 10px;
+   } margin-right: 5px; /* Отступ слева */
+ /*   border: 1px solid #000; /* Рамка вокруг текста */
+  /*  padding: 3px; /* Поля вокруг текста */
+   }
+ 
+
+  
+	/*   opacity: 0,6;
+	   background-color: rgb(202, 224, 248);
+	   padding: 5px;
+	   text-align: center;
+	   font-style: italic;*/
+   
+   
+  /*footer {
+		text-align: center;
+		font-weight: bold;
+	    margin-top: 30px;
+		padding-top: 10px;
+		background-color: rgba(68, 112, 196, 0.9);
+		color: #aaaaaa;
+		border: 5px solid #2d508f;
+		border-radius: 10px;
+   }
